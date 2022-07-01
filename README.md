@@ -11,7 +11,7 @@ This assignment primarily focusses on implementing the basic functions of the Gr
 ## 📌 Assignment 3:
 In this assignment, you will build your first neural network, which will have a hidden layer. You will see a big difference between this model and another model implmented using logistic regression.
 
-At last we comared the accuracy of both the models and pointed relevant conclusions regarding drawbacks of logistic regression over Artificial Neural Network built from the scratch.
+At last we compared the accuracy of both the models and pointed relevant conclusions regarding drawbacks of logistic regression over Artificial Neural Network built from the scratch.
 
 we learn how to:
 
